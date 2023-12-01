@@ -16,32 +16,32 @@ This repository hosts a machine learning project focused on predicting stock pri
 - Close: The closing price of the stock on that date.
 - Volume: The trading volume, i.e., the number of shares traded on that date.
 
-## Regression Models Explored
+# Regression Models Explored
 
 The project explores the following regression models:
 
-1. **Linear Regression**
+## 1. **Linear Regression**
    - A basic linear approach to modeling the relationship between the dependent variable (stock price) and one or more independent variables.
 
-2. **Logistic Regression**
+## 2. **Logistic Regression**
    - Despite its name, logistic regression is commonly used for binary classification. In this context, it may be applied for certain stock price prediction scenarios.
 
-3. **Decision Tree Regression**
+## 3. **Decision Tree Regression**
    - A tree-like model of decisions that can be useful for capturing complex relationships in the data.
 
-4. **K-Nearest Neighbors (KNN) Regression**
+## 4. **K-Nearest Neighbors (KNN) Regression**
    - A non-parametric method that makes predictions based on the average of the 'k' nearest neighbors.
 
-5. **Ridge Regression**
+## 5. **Ridge Regression**
    - A regularization technique that aims to prevent multicollinearity in multiple regression data.
 
-6. **Lasso Regression**
+## 6. **Lasso Regression**
    - Similar to Ridge Regression, Lasso Regression also involves regularization, but it tends to produce sparse coefficient estimates, effectively performing feature selection.
 
-7. **Bayesian Ridge Regression**
+## 7. **Bayesian Ridge Regression**
    - A Bayesian approach to linear regression, incorporating regularization to stabilize the model.
 
-8. **Polynomial Regression**
+## 8. **Polynomial Regression**
    - An extension of linear regression, where polynomial features are included to capture more complex relationships in the data.
 
     
