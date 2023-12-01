@@ -44,6 +44,21 @@ The project explores the following regression models:
 ## 8. **Polynomial Regression**
    - An extension of linear regression, where polynomial features are included to capture more complex relationships in the data.
 
+## Usage
+
+To run the code and reproduce the results:
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Sukanyasingh3/Regression-Stock_Prices.git
+cd Regression-Stock_Prices
+```
+
+## Results
+
+The results of each regression model, including metrics such as Mean Squared Error (MSE) or R-squared, will be available in the project's output or Jupyter notebook.
+
     
 
 
