@@ -48,7 +48,7 @@ The project explores the following regression models:
 
 To run the code and reproduce the results:
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
 git clone https://github.com/Sukanyasingh3/Regression-Stock_Prices.git
