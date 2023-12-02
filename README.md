@@ -60,6 +60,7 @@ cd Regression-Stock_Prices
 The results of each regression model, including metrics such as Mean Squared Error (MSE) or R-squared, will be available in the project's output or Jupyter notebook.
 
 ## Contributing
+![cat](https://github.com/Sukanyasingh3/Regression-Stock_Prices/assets/113462236/1ea761ee-c0b2-4809-8049-d88982df32a9)
 
 If you would like to contribute to the project, follow these steps:
 
